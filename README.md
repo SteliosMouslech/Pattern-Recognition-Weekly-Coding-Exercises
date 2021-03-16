@@ -41,7 +41,6 @@ In this exercise we implement the following algorithms:
 And use them to classify the IRIS flower Dataset
 ## Week 6 - Support Vector Machines
 In this exercise we try different SVM for the IRIS flower Dataset using scikit-learn
-![Test](https://github.com/SteliosMouslech/Pattern-Recognition-Weekly-Coding-Exercises/blob/main/Week%206/for_readme.PNG)
 
 ## Week 7 - Multi-Layered Perceptrons
 Using  scikit-learn we implement different MLP architectures for the IRIS Flower Dataset
