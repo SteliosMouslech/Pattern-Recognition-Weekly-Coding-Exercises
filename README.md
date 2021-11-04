@@ -2,7 +2,7 @@
 ## About The Repository
 
 This repository contains all my solutions to the weekly exercises that were assigned to me during the 9th semester university subject "Pattern Recognition"
-These exercises range from Bayesian Bayesian probability and statistics theory to supervised and unsupervised Machine Learning methods.
+These exercises range from Bayesian  probability and statistics theory to supervised and unsupervised Machine Learning methods.
 Code is written in Python 
 The project reports are in Greek.
 
